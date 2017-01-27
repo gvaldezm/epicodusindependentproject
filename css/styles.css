@@ -1,11 +1,32 @@
 img {
   float: right;
 }
+
 .column{
-  width: 400px;
-float:right;
+  margin: 12px;
+border: 2px solid blue;
+padding: 2px;
 }
+
 h1{
-  color: blue;
   padding-left: 300px;
+  color: blue;
+}
+
+.container{
+  font-family: sans-serif;
+}
+
+.column{
+  font-family: cursive;
+  color: red;
+}
+h2{
+  font-weight: bold;
+}
+.aboutme{
+  margin: 12px;
+  border-style: groove;
+  border-color: black;
+  padding: 4px;
 }
