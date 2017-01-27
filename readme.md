@@ -1,4 +1,7 @@
-Author: Gabriel Valdez
+# Dillinger
+
+
+Author: *Gabriel Valdez*
 Project: Personal website describing myself
 Program: Combination of html and css with bootstrap
 Setup: Just clone the GitHub repository
