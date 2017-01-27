@@ -1,11 +1,16 @@
-# Dillinger
 
 
-Author: *Gabriel Valdez*
+
+Author: Gabriel Valdez
+
 Project: Personal website describing myself
+
 Program: Combination of html and css with bootstrap
+
 Setup: Just clone the GitHub repository
-Link to GitHub:
+
+Link to GitHub: https://github.com/gvaldezm/epicodusindependentproject
+
 This project uses the MIT license and Copyright:
 Copyright (c) 2011-2016 GitHub Inc.
 
