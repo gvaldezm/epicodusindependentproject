@@ -27,6 +27,10 @@ h2{
 .aboutme{
   margin: 12px;
   border-style: groove;
-  border-color: black;
+  border-color: red;
   padding: 4px;
+}
+ol{
+  font-weight: bold;
+  color: red;
 }
